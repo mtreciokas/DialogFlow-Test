@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "marysbikeshop-covl",
+  "private_key_id": "a71137f37e5e72c5d872bc96eb0dceb89f260203",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDxOweIRIO1OQZr\nVDB/cTogn3mPa/6PkXeveh1EGMwwyx/82qEIM9E5MsfDgj6ARTduugSxFkJSNmon\n8vowY3gSISFSfpLw0fb5ZvrLJT6+JXzIRhHAwhYDhnm//Y5dUQUtkqfSr646qLL0\n2WdQ32ch6kF4vv8/eiMJapHhYFykc5Ldx0NIXxFaSKMzA+cKwZb9jmeYyjcNVOnR\n4EOoLh+gEdFV/fPATCl4NAeTD3gkmOyiIzhnqhfwPhZW5QCTU4Ul/IR1ObTbtWSP\nSldCzwvzByF+NX77s1OdbOD8EnP7ryVaQF27hZsTm5/RxLTVzpWahzT6FFzMBzsr\nzhr4+A2FAgMBAAECggEAIrWVYx5GnC35FjreIowyaqy/kysdDN/HqpRFvz1ZLgEg\nGGQFzRYVmecMVr14DEFJVVGHKMrU3prtQdPEe29ogKVLM+E599QiNucCGXZBtZ7T\nukZYuhVDER1Jid4sHJGyjsjeBGLaTR7mZvQcGUcXwgnAg2Tp+aJzhaCTnmvc0J13\n/0HMjSyZVFGfGKwLfRV428HkAFU6426iNMKFZXNUS64UEB0gAzXZTvcqF+HYLHxk\nNmb9//TMqa9vd+v4D8620YoJ4IFXvqU+uS7d81uue8js4E6l300IfkWKfwXRnY4B\nqAoqUdiM/2C/HShY3DglYYQZuJUiF+qXbBTOCsBxeQKBgQD/cvJa2y8pAb188SmB\n9TaaiIgpacfxYXEDebKUR6oYj0hbvLhfdTkfauamoUtXXbyiBh/0eO9tqFpmabpg\nIiI1g7sVJtIBqa/MWkCNPTr08WdZj/HiFdFF8YdybC7lgJcKynt84040bw2QhofC\nYfSGSFvLaybTl+Z0tpBSfHFLmQKBgQDxwDtLo9pDEEURoVl9wGMZsH4MHc3kAG3L\nf3Lm2SKwKEs6QuNeFTrWgLIyzFElviMtNPI2U3DI/FqXgPgoqDpa0ZlZduP6MCRi\nU6+erHfMjbRChnukSJ3UN7+zyb1h7yfl8oE8XFDewTrz6SxfZycxFQFfstXROetM\nPT3/OqUkzQKBgDVjT7Wfc5bNb03qlTM9DaF0gYiuPAR9ygHg8Gq/I5SodYX+xkXl\nGQAw9m3C7h0fUSpHv2v3zoqLkgEvfa1T1PR8SKBeEawZS82Y2z7pmiXRQjlctT/8\nMVW96gIHDDIZEvhFY1OxqgmZYCthgoQkttdNzimQhnfYmmiwMy+aJI+ZAoGAVPWx\n4QtckWUOYPvLb55FNaoJIkj3KsHb1ECeKPL2deIzTe5j6ZSccPYZqjCT9Ce2RRTu\napk4cen+DHCOxfsZRwGSWxalWC/DGas/dQw3rfO+/gI1Qa8jiIlvHcgwflKGOxHW\nyVfINADEryOrLHwcEevH59H5wuYQA2MifqglkaECgYBjlMhZeVrpYbYinnX2sqXR\nn56fatBrozo042VR8oPLROVoid3206g5eGoDk0YR8wfhkCuKU4ukY3xTpAr7Skj7\n4yQP+6e61CLLGReltDF6FV4RTeOs57G8HpbBytUwZ2HC7DBiY8NKXFYLR7gDPOmg\n09UiaIUjVoTZ9RBRlKHFPg==\n-----END PRIVATE KEY-----\n",
+  "client_email": "bike-shop-calendar@marysbikeshop-covl.iam.gserviceaccount.com",
+  "client_id": "115615011324458154799",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/bike-shop-calendar%40marysbikeshop-covl.iam.gserviceaccount.com"
+}
